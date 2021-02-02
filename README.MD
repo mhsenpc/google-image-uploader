@@ -1,7 +1,7 @@
-#Google Image Uploader
+# Google Image Uploader
 Upload Images to google servers using picasa api
 
-#Features
+## Features
 * drag and drop uploader
 * Permanent file persistence
 * Unlimited images
@@ -12,5 +12,5 @@ Upload Images to google servers using picasa api
 * QR code for copy url quickly to your devices
 * Batch image upload
 
-#Licence
-this application is published under gpl licence
+## Licence
+This application is published under gpl licence
